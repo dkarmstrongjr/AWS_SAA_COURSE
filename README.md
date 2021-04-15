@@ -241,3 +241,6 @@ SSL and TLS
 - **Cipher Suites** - set of protocol used by Tls. 
 - **Authentication** - Ensure the server certificate is authentic, verifying the server as legitimate. The client trusts the public CA - it makes sure that the cert is valid(date, and hasn't been revoked) and that the dns name matches the name/names on the cert. Proves the server id is valif from third party CA
 - **Key Exchange** - Move from Asymmetric to Symmetric keys in a secure way and begin encryption process. The client generates the pre master key, encypts it with the servers public key and sends it to the server. - The server decrypts the pre master key using its private key. Both sides use the same pre master key to generate the master secret whihc is used to generate the ongoing session keys which encrypt and decrypt data.
+
+AWS Fundamentals
+=================
