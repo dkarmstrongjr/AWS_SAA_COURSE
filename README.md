@@ -5,7 +5,7 @@ Table of Contents
 
   * [Cloud Computing Fundamentals](#Cloud-Computing-Fundamentals)
     * [Cloud Computing Definition](#Cloud-Computing-Definition)
-    * [Public vs Private vs Multi vs Hybrid Cloud](#Public-vs-Private-vs-Multi-vs-Hybrid Cloud)
+    * [Public vs Private vs Multi vs Hybrid Cloud](#Public-vs-Private-vs-Multi-vs-Hybrid-Cloud)
     * [Cloud Service Models](#Cloud-Service-Models)
 
 Cloud Computing Fundamentals
