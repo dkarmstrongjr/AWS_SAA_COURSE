@@ -3,7 +3,7 @@
 Table of Contents
 ==================
 
-  * [Cloud Computing Fundamentials](Cloud-Computing-Fundamentials)
+  * [Cloud Computing Fundamentals](Cloud-Computing-Fundamentals)
     * [Cloud Computing Definition:](Cloud-Computing-Definition:)
 
 Cloud Computing Fundamentals
